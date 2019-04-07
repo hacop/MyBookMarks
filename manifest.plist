@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.123.166:8000/ipa/logo.png</string>
+					<string>https://salesapp.qorosauto.com/logo/SalesApp_512x512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.123.166:8000/ipa/logo.png</string>
+					<string>https://salesapp.qorosauto.com/logo/SalesApp_57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
