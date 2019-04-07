@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/hacop/MyBookMarks/blob/master/HelloWorld.ipa?raw=true</string>
+					<string>http://192.168.123.166:8000/ipa/HelloWorld.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>client-mobile</string>
+				<string>HelloWorld</string>
 			</dict>
 		</dict>
 	</array>
